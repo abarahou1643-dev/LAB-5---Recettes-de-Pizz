@@ -2,7 +2,7 @@
 
 #  PizzaRecipes
 
-Application Android de recettes de pizzas - Développée en Java
+Application Android développée en Java permettant de consulter une liste de recettes de pizzas avec leurs détails complets (ingrédients, étapes de préparation, durée, prix).
 
 ---
 
@@ -60,6 +60,7 @@ app/src/main/java/com/example/pizzarecipes/
 
 
 https://github.com/user-attachments/assets/f593f74f-d358-4e02-9a79-cbb03c17f01b
+
 
 
 
